@@ -24,3 +24,8 @@ Git is a version control software that lets you manage and keep track of your so
 ** Stages of Git **
 Untracked, Staged and Commit
 
+**Types of Reset**
+- Soft
+- Hard
+- Mixed (Default)
+
